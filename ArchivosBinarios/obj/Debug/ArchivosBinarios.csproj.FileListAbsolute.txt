@@ -1,0 +1,7 @@
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe.config
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.pdb
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.AssemblyReference.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.exe
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.pdb
